@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main() {
+int main() {
     int n1,n2,dif;
     printf("First Number : ");
     scanf("%d", &n1);
@@ -10,3 +10,4 @@ void main() {
     printf("The difference is %d", dif);
     return 0;
 }
+
