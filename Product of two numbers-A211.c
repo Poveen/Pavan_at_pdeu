@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main() {
+int main() {
     int n1,n2,prod;
     printf("First Number : ");
     scanf("%d", &n1);
@@ -10,3 +10,4 @@ void main() {
     printf("The product is %d", prod);
     return 0;
 }
+
