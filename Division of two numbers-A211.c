@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main() {
+int main() {
     float n1,n2,div;
     printf("First Number : ");
     scanf("%f", &n1);
@@ -10,3 +10,4 @@ void main() {
     printf("The division is %f", div);
     return 0;
 }
+
